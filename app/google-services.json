@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120722391686",
+    "firebase_url": "https://onyx-yeti-258014.firebaseio.com",
+    "project_id": "onyx-yeti-258014",
+    "storage_bucket": "onyx-yeti-258014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120722391686:android:4b53fcf3704dabac0d8707",
+        "android_client_info": {
+          "package_name": "com.gportals.pointseek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120722391686-4ki7inmof4lcd7b6clgkbfr3jf098trp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC10IMTnn4Xtsav0-MATbnKzrxluDPwxa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120722391686-4ki7inmof4lcd7b6clgkbfr3jf098trp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

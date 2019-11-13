@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PointSeek</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Drawer -->
+    <string name="nav_header_pointseek_logo_descrption">PointSeek logo</string>
+    <string name="nav_header_title">PointSeek</string>
+    <string name="nav_header_description">v0.3</string>
+
+    <string name="nav_home_title">Home</string>
+    <string name="nav_group_title">Group</string>
+    <string name="nav_settings_title">Settings</string>
+
+
+    <string name="title_activity_group">Group</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_admin_title">Admin</string>
+    <string name="join_group_tab">Join group</string>
+    <string name="create_group_tab">Create group</string>
+
+</resources>
